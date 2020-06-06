@@ -6,8 +6,8 @@
   - qt resources system
 
 # screenshots
-<img src=""/>
-<img src=""/>
+<img src="images/login1.png"/>
+<img src="images/login2.png"/>
 
 # note:
   - to convert .qrc to .py run this command: ```pyrcc5 -o RESOURCE_NAME.py RESOURCE_NAME.qrc```
